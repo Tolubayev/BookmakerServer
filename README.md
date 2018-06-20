@@ -2,7 +2,8 @@
 A simple server for performing bookmarking of data collected from git repository search.
 
 # Technical requirements
-.Net Framework 4.7
+.Net Framework 4.7.
+Working nuget manager for solution is a must. 
 
 # Description
 A simple server implemeted with WEB API 2. Supports cors, data validation and session.
