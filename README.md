@@ -25,8 +25,9 @@ Response: HttpResponseMessage.
 
 Data storage:
 
-for each unique user represented by identifier field, stores dictionary of data where key is a unique identifier of repository, value is an object with name and avatar(url) properties.
+For each unique user represented by identifier field, stores dictionary of data where key is a unique identifier of repository and value is an object with name and avatar(url) properties.
 
 # Note
 Possibly better sollution was to use MVC project with api controller.
 The solution has only one layer (no BLL, DAL or etc). 
+
