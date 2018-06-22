@@ -2,9 +2,7 @@
 A simple server for performing bookmarking of data collected from git repository search.
 
 # Technical requirements
-VS 2017
-.Net Framework 4.7.
- 
+Windows 10, VS 2017, .Net Framework 4.7. 
 
 # Clone / run
 
