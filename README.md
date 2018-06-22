@@ -23,12 +23,15 @@ git clone https://github.com/Tolubayev/BookmakerServer.git
 
 4. Run locally [F5]
 
+
 Expected:
-Must open swagger page for api. Like [http://localhost:57358/swagger/ui/index]
+Browser should open swagger page of the api. For instance [http://localhost:57358/swagger/ui/index]
 
 One may perform calls from swagger or/and to use Githubsearcher application. See:
 https://github.com/Tolubayev/GithubSearcher.
 This is a standalone react app.
+
+You may also deploy the api to ISS, if you'd like.
 
 
 # Description
